@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockTree", "BlockTree\BlockTree.csproj", "{852E2E38-593C-4F81-B3E3-3AE5FDF35EAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockTreeVM", "BlockTreeVM\BlockTreeVM.csproj", "{CD65044C-D133-4AF5-883D-553976F4E03F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockTree.Console", "BlockTree.Console\BlockTree.Console.csproj", "{392A1B1C-FDD2-4841-A384-F1C618F2C393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockTree.Wallet", "BlockTree.Wallet\BlockTree.Wallet.csproj", "{CFC243F0-F4E3-4754-8E21-8BA17E1C1788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852E2E38-593C-4F81-B3E3-3AE5FDF35EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852E2E38-593C-4F81-B3E3-3AE5FDF35EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852E2E38-593C-4F81-B3E3-3AE5FDF35EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852E2E38-593C-4F81-B3E3-3AE5FDF35EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD65044C-D133-4AF5-883D-553976F4E03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD65044C-D133-4AF5-883D-553976F4E03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD65044C-D133-4AF5-883D-553976F4E03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD65044C-D133-4AF5-883D-553976F4E03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392A1B1C-FDD2-4841-A384-F1C618F2C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A1B1C-FDD2-4841-A384-F1C618F2C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A1B1C-FDD2-4841-A384-F1C618F2C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A1B1C-FDD2-4841-A384-F1C618F2C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC243F0-F4E3-4754-8E21-8BA17E1C1788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC243F0-F4E3-4754-8E21-8BA17E1C1788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC243F0-F4E3-4754-8E21-8BA17E1C1788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC243F0-F4E3-4754-8E21-8BA17E1C1788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E7F425-B565-4229-99AD-ADC7A021B85A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://beyebe.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BlockTree.Console\\BlockTree.Console.csproj
+		SccProjectName1 = BlockTree.Console
+		SccLocalPath1 = BlockTree.Console
+		SccProjectUniqueName2 = BlockTree.Wallet\\BlockTree.Wallet.csproj
+		SccProjectName2 = BlockTree.Wallet
+		SccLocalPath2 = BlockTree.Wallet
+		SccProjectUniqueName3 = BlockTree\\BlockTree.csproj
+		SccProjectName3 = BlockTree
+		SccLocalPath3 = BlockTree
+		SccProjectUniqueName4 = BlockTreeVM\\BlockTreeVM.csproj
+		SccProjectName4 = BlockTreeVM
+		SccLocalPath4 = BlockTreeVM
+	EndGlobalSection
+EndGlobal

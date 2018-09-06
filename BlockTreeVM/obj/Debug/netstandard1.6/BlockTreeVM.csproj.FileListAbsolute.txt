@@ -1,0 +1,27 @@
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\bin\Debug\netstandard1.6\BlockTree.VM.deps.json
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\bin\Debug\netstandard1.6\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\bin\Debug\netstandard1.6\BlockTree.VM.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTreeVM.csprojAssemblyReference.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTreeVM.csproj.CoreCompileInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfoInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfo.cs
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\neo-vm-master\src\neo-vm\obj\Debug\netstandard1.6\BlockTree.VM.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.deps.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.csprojAssemblyReference.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.csproj.CoreCompileInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfoInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfo.cs
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTree.VM.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.deps.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\bin\Debug\netstandard1.6\BlockTree.VM.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTreeVM.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTree.VM.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTreeVM\obj\Debug\netstandard1.6\BlockTree.VM.pdb

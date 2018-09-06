@@ -1,0 +1,26 @@
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\protocol.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.deps.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.VM.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csprojAssemblyReference.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csproj.CoreCompileInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.AssemblyInfoInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.AssemblyInfo.cs
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csproj.CopyComplete
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\protocol.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.deps.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.VM.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\bin\Debug\netstandard2.0\BlockTree.VM.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.csproj.CopyComplete
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree\obj\Debug\netstandard2.0\BlockTree.pdb

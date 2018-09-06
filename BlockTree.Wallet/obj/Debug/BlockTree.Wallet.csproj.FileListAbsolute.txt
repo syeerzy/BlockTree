@@ -1,0 +1,668 @@
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csprojAssemblyReference.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.exe.config
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\Interop.CERTENROLLLib.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.ResolveComReference.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Resources.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TxOutListBox.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.es-Es.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.es-ES.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.zh-Hans.resources
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.GenerateResource.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.testnet.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.mainnet.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.mainnet.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.testnet.json
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.exe.config
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.exe
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\es-Es\BlockTree.Wallet.resources.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\zh-Hans\BlockTree.Wallet.resources.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\netstandard.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.AppContext.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Console.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Data.Common.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Compression.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Pipes.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Http.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Ping.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Requests.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Security.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Sockets.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ObjectModel.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.Reader.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.Writer.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Claims.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Principal.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.SecureString.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encoding.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Thread.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Timer.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ValueTuple.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XPath.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.VM.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Remotion.Linq.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Buffers.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Interactive.Async.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.VM.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.ResponseCompression.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Remotion.Linq.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.pdb
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Buffers.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Interactive.Async.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\es-Es\BlockTree.Wallet.resources.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\zh-Hans\BlockTree.Wallet.resources.dll
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.CopyComplete
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.exe
+C:\Users\Syeerzy\Desktop\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\x86\e_sqlite3.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\x64\e_sqlite3.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.testnet.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.mainnet.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\config.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.mainnet.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\protocol.testnet.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.Wallet.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\es-Es\BlockTree.Wallet.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\zh-Hans\BlockTree.Wallet.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\netstandard.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.AppContext.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Concurrent.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.NonGeneric.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Specialized.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.TypeConverter.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Console.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Data.Common.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Contracts.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Debug.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Process.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Tools.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.TraceSource.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.Tracing.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Drawing.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Dynamic.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.Calendars.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Globalization.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Compression.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.FileSystem.Watcher.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.IsolatedStorage.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.MemoryMappedFiles.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.Pipes.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Expressions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Parallel.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Linq.Queryable.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.NameResolution.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.NetworkInformation.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Ping.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Requests.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Security.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.Sockets.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebHeaderCollection.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebSockets.Client.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Net.WebSockets.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ObjectModel.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.Reader.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.ResourceManager.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Resources.Writer.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Handles.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.InteropServices.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Numerics.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Formatters.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Json.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.Serialization.Xml.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Claims.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Csp.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.Principal.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Security.SecureString.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encoding.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encoding.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.RegularExpressions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Overlapped.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Parallel.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Thread.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.ThreadPool.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Timer.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.ReaderWriter.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XDocument.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XmlDocument.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XmlSerializer.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XPath.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.VM.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.ResponseCompression.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebSockets.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Data.Sqlite.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Options.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Net.Http.Headers.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Remotion.Linq.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.batteries_green.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.core.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Buffers.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.ComponentModel.Annotations.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Interactive.Async.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.VM.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\BlockTree.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.ResponseCompression.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebSockets.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Data.Sqlite.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Options.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Microsoft.Net.Http.Headers.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Remotion.Linq.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\Replicon.Cryptography.SCrypt.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Buffers.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Collections.Immutable.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Interactive.Async.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Reflection.Metadata.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\Interop.CERTENROLLLib.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TxOutListBox.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.es-Es.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Properties.Strings.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.AssetRegisterDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.BulkPayDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CertificateRequestWizard.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ChangePasswordDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ClaimForm.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ContractDetailsDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateLockAccountDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateMultiSigContractDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.CreateWalletDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeployContractDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.DeveloperToolsForm.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ElectionDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportCustomContractDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ImportPrivateKeyDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InformationBox.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InputBox.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.InvokeContractDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.IssueDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.MainForm.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OpenWalletDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.OptionsDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ParametersEditor.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.PayToDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SelectCertificateDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.SigningTxDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeForm.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TradeVerificationDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.TransferDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.UpdateDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewContractDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.ViewPrivateKeyDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.es-ES.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.UI.VotingDialog.zh-Hans.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\es-Es\BlockTree.Wallet.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\zh-Hans\BlockTree.Wallet.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.csproj.CopyComplete
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\新建文件夹\BlockTree\src\BlockTree.Wallet\obj\Debug\BlockTree.Wallet.pdb

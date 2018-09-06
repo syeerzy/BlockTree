@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Copyright>2016-2018 The Neo Project</Copyright>
+    <AssemblyTitle>Neo.CLI</AssemblyTitle>
+    <Version>2.8.0</Version>
+    <Authors>The Neo Project</Authors>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>BlockTree.Console</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>Neo.CLI</PackageId>
+    <RootNamespace>BlockTree</RootNamespace>
+    <Company>The Neo Project</Company>
+    <Product>Neo.CLI</Product>
+    <Description>Neo.CLI</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>False</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlockTree\BlockTree.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="config.json;config.mainnet.json;config.testnet.json;protocol.json;protocol.mainnet.json;protocol.testnet.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
